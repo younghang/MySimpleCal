@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "function", "function\function.csproj", "{042D5CFB-C1F6-4A09-B2BF-C0C6C6D87D75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Caltor", "Caltor", "{204E4FC2-38D0-4FC8-9497-80976BFC8C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator1.0\calculator.csproj", "{BF2685D4-73AD-4572-ADA6-21FDFFBAB814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalDll", "MyCalDll\MyCalDll.csproj", "{5D6532BA-706B-4416-A945-E8B605DFFF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIController", "UIController\UIController.csproj", "{4EFAF8EA-D599-49D8-8AFE-71AA9E427D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixProject", "MatrixProject\MatrixProject.csproj", "{18D1A9EB-0730-4CE8-AF1B-0E832B0AA92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCal", "ConsoleCal\ConsoleCal.csproj", "{A3CD92F0-77A2-4E2B-9333-FF7AEB19A9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042D5CFB-C1F6-4A09-B2BF-C0C6C6D87D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D5CFB-C1F6-4A09-B2BF-C0C6C6D87D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D5CFB-C1F6-4A09-B2BF-C0C6C6D87D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D5CFB-C1F6-4A09-B2BF-C0C6C6D87D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2685D4-73AD-4572-ADA6-21FDFFBAB814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2685D4-73AD-4572-ADA6-21FDFFBAB814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2685D4-73AD-4572-ADA6-21FDFFBAB814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2685D4-73AD-4572-ADA6-21FDFFBAB814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6532BA-706B-4416-A945-E8B605DFFF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6532BA-706B-4416-A945-E8B605DFFF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6532BA-706B-4416-A945-E8B605DFFF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6532BA-706B-4416-A945-E8B605DFFF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFAF8EA-D599-49D8-8AFE-71AA9E427D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFAF8EA-D599-49D8-8AFE-71AA9E427D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFAF8EA-D599-49D8-8AFE-71AA9E427D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFAF8EA-D599-49D8-8AFE-71AA9E427D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D1A9EB-0730-4CE8-AF1B-0E832B0AA92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D1A9EB-0730-4CE8-AF1B-0E832B0AA92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D1A9EB-0730-4CE8-AF1B-0E832B0AA92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D1A9EB-0730-4CE8-AF1B-0E832B0AA92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CD92F0-77A2-4E2B-9333-FF7AEB19A9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CD92F0-77A2-4E2B-9333-FF7AEB19A9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CD92F0-77A2-4E2B-9333-FF7AEB19A9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CD92F0-77A2-4E2B-9333-FF7AEB19A9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF2685D4-73AD-4572-ADA6-21FDFFBAB814} = {204E4FC2-38D0-4FC8-9497-80976BFC8C9F}
+		{5D6532BA-706B-4416-A945-E8B605DFFF26} = {204E4FC2-38D0-4FC8-9497-80976BFC8C9F}
+	EndGlobalSection
+EndGlobal
